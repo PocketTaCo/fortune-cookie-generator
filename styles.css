@@ -36,9 +36,9 @@ body{
 }		
 
 @keyframes strobe {
-     {background-color:#ff3333;}
-     {background-color:#66ff66;}
-     {background-color:#4dd2ff;}
+    from {background-color:#ff3333;}
+    to {background-color:#66ff66;}
+    to {background-color:#4dd2ff;}
 }
 
 #TITLE{
